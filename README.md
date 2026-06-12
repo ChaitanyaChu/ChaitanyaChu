@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STEM%20OPT-No%20Sponsorship%20Needed%20Until%202027-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/STEM%20OPT-No%20Sponsorship%20Needed%20Until%202028-f59e0b?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/GPA-3.7%20%2F%204.0-6C63FF?style=flat-square"/>
 &nbsp;
