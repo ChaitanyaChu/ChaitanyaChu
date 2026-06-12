@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Chaitanya%20Chunduri&fontSize=42&fontColor=58a6ff&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLM%20Pipelines%20%7C%20Dallas%2C%20TX&descAlign=50&descAlignY=58&descSize=14)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:059669,100:06b6d4&height=200&section=header&text=Chaitanya%20Chunduri&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLM%20Pipelines%20%7C%20Dallas%2C%20TX&descAlign=50&descAlignY=58&descSize=14)
 
 <br/>
 
@@ -158,6 +158,6 @@ Job search via Adzuna API + GPT-4o resume scorer — match score, missing keywor
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Let's+build+something+together&fontSize=16&fontColor=58a6ff&fontAlign=50&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:059669,100:10b981&height=120&section=footer&text=Let's+build+something+together&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=65)
 
 </div>
