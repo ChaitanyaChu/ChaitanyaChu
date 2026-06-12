@@ -17,7 +17,7 @@
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20Engineer%20%7C%20SWE%20%7C%20Data%20Engineer-238636?style=for-the-badge)
 &nbsp;
-![Work Auth](https://img.shields.io/badge/STEM%20OPT-No%20Sponsorship%20Needed%20Until%202027-b08800?style=for-the-badge)
+![Work Auth](https://img.shields.io/badge/STEM%20OPT-No%20Sponsorship%20Needed%20Until%202028-b08800?style=for-the-badge)
 &nbsp;
 ![GPA](https://img.shields.io/badge/UNT%20CS%20ABET-GPA%203.7%20%7C%20AI%2FML%20Specialization-1f6feb?style=for-the-badge)
 
